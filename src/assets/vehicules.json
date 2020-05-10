@@ -1,0 +1,12 @@
+[
+  {
+    "nom": "Tondeuse",
+    "type": "TD01",
+    "totalHeures": 42009
+  },
+  {
+    "nom": "Laveuse",
+    "type": "LX01",
+    "totalHeures": 54012
+  }
+]
